@@ -2,6 +2,6 @@
 
 Building Blockchain with Python project
 
-Learning Python & Blockchain
+My way to learn Python & Blockchain
 
 ![development-stages](https://github.com/NatalyCoding/py-block/blob/master/Development-Stages.png)
